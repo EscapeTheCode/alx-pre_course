@@ -2,6 +2,10 @@
 <<<<<<< HEAD
 echo "The school is open!"
 =======
+<<<<<<< HEAD
 echo "ALX School is so cool!"
+=======
+echo "ALX"
+>>>>>>> 9548acb7f677fca215e1792b3ebd0bfbf52b613f
 
 >>>>>>> 16eaa74d043994b4dd27ba85b1c6dea760252fed
